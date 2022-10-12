@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Welcome to my GitHub profile! 
+## Welcome to my GitHub profile! 
 
 My name is Cecilia Dalotto and I'm a Data Scientist. 💻🔎<br></br>
 Here I update all the codes, algorithms, graphs and dashboards that I use to develop my projects.<br></br>
@@ -16,7 +16,22 @@ And feel free to contact me anytime:
 * [![Website](https://img.shields.io/badge/-My_Website-black?style=flat-square&logo=Website&logoColor=white&link=https://ceciliaesd.github.io/)](https://ceciliaesd.github.io/)
 <br></br>
 ________________________________
-### Languages and Tools:
+## Projects:
+
+### [Rossman Sales Model](https://github.com/ceciliaesd/Rossmann_Sales_Prediction)
+Six-week sales forecasts for a european drug store chain.
+
+### [Bank Fraud Detection](https://github.com/ceciliaesd/Fraud_Detection_Model)
+Detection of fraudulent banking transactions with a high accuracy.
+
+### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Insurance_Cross_Sell)
+Pedicting the probability of customers purchasing a new product offered by their insurance company.
+
+### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio_Catch_Disease)
+Model that predicts the probability of patients developing cardiovascular diseases in early stages.
+
+________________________________
+## Languages and Tools:
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
