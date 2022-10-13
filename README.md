@@ -18,16 +18,16 @@ And feel free to contact me anytime:
 ________________________________
 ## Projects:
 
-### [Rossman Sales Model](https://github.com/ceciliaesd/Rossmann_Sales_Prediction)
+### [Rossman Sales Model](https://github.com/ceciliaesd/Rossmann_Sales_Prediction/blob/main/Rossmann_store_sales.ipynb)
 Six-week sales forecasts for a european drug store chain.
 
-### [Bank Fraud Detection](https://github.com/ceciliaesd/Fraud_Detection_Model)
+### [Bank Fraud Detection](https://github.com/ceciliaesd/Fraud_Detection_Model/blob/main/Fraud_Detection_Company.ipynb)
 Detection of fraudulent banking transactions with a high accuracy.
 
-### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Insurance_Cross_Sell)
+### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Insurance_Cross_Sell/blob/main/Health_Insurance.ipynb)
 Pedicting the probability of customers purchasing a new product offered by their insurance company.
 
-### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio_Catch_Disease)
+### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio_Catch_Disease/blob/main/Cardio_Catch_Diseases.ipynb)
 Model that predicts the probability of patients developing cardiovascular diseases in early stages.
 
 ________________________________
