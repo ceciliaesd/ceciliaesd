@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="riqHCAvDQWGPxgtkxFuaQyk-rfMUG_4usdiPM9ppYtc" />
+</head>
+
 # Hi there 👋
 
 ## Welcome to my GitHub profile! 
