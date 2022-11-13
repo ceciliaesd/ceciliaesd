@@ -21,17 +21,20 @@ And feel free to contact me anytime:
 ________________________________
 ## Projects:
 
-### [Rossman Sales Model](https://github.com/ceciliaesd/Rossmann_Sales_Prediction/blob/main/Rossmann_store_sales.ipynb)
+### [Rossman Sales Model](https://github.com/ceciliaesd/Rossman-Sales-Model/blob/main/Rossmann_store_sales.ipynb)
 Six-week sales forecasts for a european drug store chain.
 
-### [Bank Fraud Detection](https://github.com/ceciliaesd/Fraud_Detection_Model/blob/main/Fraud_Detection_Company.ipynb)
-Detection of fraudulent banking transactions with a high accuracy.
+### [Bank Fraud Detection](https://github.com/ceciliaesd/Bank-Fraud-Detection/blob/main/Fraud_Detection_Company.ipynb)
+Detection of fraudulent banking transactions with a high accuracy (99,7%).
 
-### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Insurance_Cross_Sell/blob/main/Health_Insurance.ipynb)
+### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Health-Insurance-Cross-Sell/blob/main/Health_Insurance.ipynb)
 Pedicting the probability of customers purchasing a new product offered by their insurance company.
 
-### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio_Catch_Disease/blob/main/Cardio_Catch_Diseases.ipynb)
+### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio-Diseases-Prediction/blob/main/Cardio_Catch_Diseases.ipynb)
 Model that predicts the probability of patients developing cardiovascular diseases in early stages.
+
+### [House Pricing insights](https://github.com/ceciliaesd/House-Pricing-Insights/blob/main/House_pricing.png)
+Dashboard and visualizations with key information of the proprieties available in the real estate market.
 
 ________________________________
 ## Languages and Tools:
