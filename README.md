@@ -6,8 +6,8 @@
 
 ## Welcome to my GitHub profile! 
 
-My name is Cecilia Dalotto and I'm a Data Scientist. 💻🔎<br></br>
-Here I update all the codes, algorithms, graphs and dashboards that I use to develop my projects.<br></br>
+My name is Cecilia Dalotto and I'm a Data Analyst. 💻🔎<br></br>
+Here I update all the codes, algorithms, graphs and dashboards that I use to develop my data science projects.<br></br>
 I like to analyze different types of dataset to reveal narratives, create predictive models and make powerful visualizations. I also use machine learning techniques to find the best solutions and suggest improvements through data insights.
 <br></br>
 If you are curious, check out all my repositories below! ⬇️
