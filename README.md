@@ -27,11 +27,11 @@ Six-week sales forecasts for a european drug store chain.
 ### [Bank Fraud Detection](https://github.com/ceciliaesd/Bank-Fraud-Detection/blob/main/Bank_fraud_detection.ipynb)
 Detection of fraudulent banking transactions with a high accuracy (99,7%).
 
-### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Health-Insurance-Cross-Sell/blob/main/Health_insurance_cross_sell.ipynb)
-Pedicting the probability of customers purchasing a new product offered by their insurance company.
-
 ### [Cardio Diseases Prediction](https://github.com/ceciliaesd/Cardio-Diseases-Prediction/blob/main/Cardio_diseases_prediction.ipynb)
 Model that predicts the probability of patients developing cardiovascular diseases in early stages.
+
+### [Health Insurance Cross Sell](https://github.com/ceciliaesd/Health-Insurance-Cross-Sell/blob/main/Health_insurance_cross_sell.ipynb)
+Pedicting the probability of customers purchasing a new product offered by their insurance company.
 
 ### [House Pricing insights](https://github.com/ceciliaesd/House-Pricing-Insights/blob/main/House_pricing_insights.png)
 Dashboard and visualizations with key information of the proprieties available in the real estate market.
