@@ -21,7 +21,7 @@ And feel free to contact me anytime:
 ________________________________
 ## Projects:
 
-### [Data Visualization](https://github.com/ceciliaesd/Rossman-Sales-Model/blob/main/Rossmann_sales_model.ipynb)
+### [Data Visualization](https://github.com/ceciliaesd/datavisualization)
 
 ### [Rossman Sales Model](https://github.com/ceciliaesd/Rossman-Sales-Model/blob/main/Rossmann_sales_model.ipynb)
 Six-week sales forecasts for a european drug store chain.
