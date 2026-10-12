@@ -21,7 +21,7 @@ And feel free to contact me anytime:
 ________________________________
 ## Projects:
 
-### [Data Visualization](https://github.com/ceciliaesd/datavisualization](https://github.com/ceciliaesd/datavisualization/blob/main/Screenshot%202026-10-12%20212842.png)
+### [Data Visualization](https://github.com/ceciliaesd/datavisualization/blob/main/Screenshot%202026-10-12%20212842.png)
 PowerBI dashboards.
 
 ### [Rossman Sales Model](https://github.com/ceciliaesd/Rossman-Sales-Model/blob/main/Rossmann_sales_model.ipynb)
